@@ -78,8 +78,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `About Composer <https://getcomposer.org/doc/00-intro.md>`__
 
 
 .. _s0-d2-l5-teacher:

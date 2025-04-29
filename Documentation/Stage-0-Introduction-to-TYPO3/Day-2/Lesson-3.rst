@@ -78,8 +78,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `What is Docker? <https://docs.docker.com/get-started/docker-overview/>`__
+* `Installing TYPO3 with DDEV <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Installation/Install.html#installation-ddev-tutorial/>`__
+* `What is a Docker container? <https://www.docker.com/resources/what-container />`__
 
 
 .. _s0-d2-l3-teacher:

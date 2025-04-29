@@ -78,8 +78,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 New Page <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html#the-new-page-content-wizard>`__
+* `TYPO3 Content elements <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html#page-content-elements>`__
+* `TYPO3 Plugins <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html#page-plugins>`__
+
 
 
 .. _s0-d3-l3-teacher:

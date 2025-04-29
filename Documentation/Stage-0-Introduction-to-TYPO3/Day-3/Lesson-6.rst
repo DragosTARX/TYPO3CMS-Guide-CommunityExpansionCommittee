@@ -78,8 +78,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Massively Multisite and Multilingual <https://typo3.com/typo3-cms/what-is-typo3/massively-multisite-multilingual>`__
+* `Setting up languages <https://docs.typo3.org/m/typo3/guide-frontendlocalization/main/en-us/SettingUpLanguages/Index.html#languages>`__
+
 
 
 .. _s0-d3-l6-teacher:
