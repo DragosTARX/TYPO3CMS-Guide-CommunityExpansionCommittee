@@ -1,26 +1,26 @@
 .. include:: /Includes.rst.txt
 
-.. _s0-d1-l3:
+.. _s0-d5-l1:
 
-===============================================
-Lesson 3 — TYPO3 Architecture and Core Features
-===============================================
+===========================================
+Lesson 1 — TYPO3's Update and Release Cycle
+===========================================
 
-This demonstration will showcase TYPO3's architecture in action. The instructor will navigate through the system, demonstrating the backend/frontend separation, extension integration, and content rendering process. Students will observe each core feature functioning in a live environment.
+A demonstration of TYPO3's release process and updates in action. The presentation will showcase different release types and their installation procedures. This practical session will illustrate how the predictable release cycle supports sustainable website management.
 
-.. _s0-d1-l3-prerequisites-goals:
+.. _s0-d5-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s0-d1-l3-prerequisites:
+.. _s0-d5-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s0-d1-l3-theoretical-prerequisites:
+.. _s0-d5-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Item 3
 
 
-.. _s0-d1-l3-practical-prerequisites:
+.. _s0-d5-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,12 +44,12 @@ Before you start this lesson, please have the following things ready:
 * Item 3
 
 
-.. _s0-d1-l3-goals:
+.. _s0-d5-l1-goals:
 
 Goals
 -----
 
-.. _s0-d1-l3-theoretical-goals:
+.. _s0-d5-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * Item 3
 
 
-.. _s0-d1-l3-practical-goals:
+.. _s0-d5-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -73,21 +73,22 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s0-d1-l3-resources:
+.. _s0-d5-l1-resources:
 
 Learning resources
 ==================
 
-* `TYPO3 Enterprise CMS <https://typo3.org/cms/features>`__
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s0-d1-l3-teacher:
+.. _s0-d5-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s0-d1-l3-student:
+.. _s0-d5-l1-student:
 
 Student's instructions
 ======================

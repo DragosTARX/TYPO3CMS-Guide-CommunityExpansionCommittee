@@ -83,7 +83,6 @@ Learning resources
 * `TYPO3 Installation <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Installation/Index.html#installation-index>`__
 
 
-
 .. _s0-d2-l1-teacher:
 
 Teacher's instructions

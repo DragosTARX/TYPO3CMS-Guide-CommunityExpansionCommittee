@@ -82,7 +82,6 @@ Learning resources
 * `TYPO3 Page Tree <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/GeneralBackendStructure/PageTree/Index.html#page-tree>`__
 
 
-
 .. _s0-d3-l2-teacher:
 
 Teacher's instructions

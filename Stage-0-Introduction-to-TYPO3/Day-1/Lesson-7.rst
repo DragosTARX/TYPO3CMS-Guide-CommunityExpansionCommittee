@@ -81,6 +81,7 @@ Learning resources
 * :ref:`Lesson 6's learning resources <s0-d1-l6-resources>`
 
 
+
 .. _s0-d1-l7-teacher:
 
 Teacher's instructions

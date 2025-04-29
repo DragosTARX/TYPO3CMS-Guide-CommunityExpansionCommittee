@@ -81,7 +81,6 @@ Learning resources
 * `TYPO3 Backend <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/Index.html#backend>`__
 
 
-
 .. _s0-d3-l1-teacher:
 
 Teacher's instructions

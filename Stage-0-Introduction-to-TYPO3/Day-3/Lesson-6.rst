@@ -82,7 +82,6 @@ Learning resources
 * `Setting up languages <https://docs.typo3.org/m/typo3/guide-frontendlocalization/main/en-us/SettingUpLanguages/Index.html#languages>`__
 
 
-
 .. _s0-d3-l6-teacher:
 
 Teacher's instructions

@@ -81,7 +81,6 @@ Learning resources
 * `The Filelist Module <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/FileModule/Index.html#file-module>`__
 
 
-
 .. _s0-d3-l4-teacher:
 
 Teacher's instructions

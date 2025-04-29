@@ -83,7 +83,6 @@ Learning resources
 * `TYPO3 Plugins <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html#page-plugins>`__
 
 
-
 .. _s0-d3-l3-teacher:
 
 Teacher's instructions

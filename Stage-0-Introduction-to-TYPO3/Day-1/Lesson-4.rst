@@ -1,26 +1,26 @@
 .. include:: /Includes.rst.txt
 
-.. _s0-d1-l2:
+.. _s0-d1-l4:
 
-=========================================================
-Lesson 2 — TYPO3: History, Evolution, and Market Position
-=========================================================
+=================================================
+Lesson 4 — TYPO3 in Action: Demo and Case Studies
+=================================================
 
-Through a showcase of websites built on different TYPO3 versions, the instructor will demonstrate the system's evolution. Students will observe real-world implementations across various sectors, seeing how organizations leverage TYPO3's capabilities for complex digital experiences.
+The instructor will provide live demonstrations of complete TYPO3 websites from different industries. Students will observe how these sites address specific business needs as the instructor navigates both frontend and backend environments. Demonstrations will include multi-site setups, multilingual features, and content workflows.
 
-.. _s0-d1-l2-prerequisites-goals:
+.. _s0-d1-l4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s0-d1-l2-prerequisites:
+.. _s0-d1-l4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s0-d1-l2-theoretical-prerequisites:
+.. _s0-d1-l4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Item 3
 
 
-.. _s0-d1-l2-practical-prerequisites:
+.. _s0-d1-l4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,12 +44,12 @@ Before you start this lesson, please have the following things ready:
 * Item 3
 
 
-.. _s0-d1-l2-goals:
+.. _s0-d1-l4-goals:
 
 Goals
 -----
 
-.. _s0-d1-l2-theoretical-goals:
+.. _s0-d1-l4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * Item 3
 
 
-.. _s0-d1-l2-practical-goals:
+.. _s0-d1-l4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -73,22 +73,21 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s0-d1-l2-resources:
+.. _s0-d1-l4-resources:
 
 Learning resources
 ==================
 
 * `TYPO3 Case Studies <https://typo3.com/customers/case-studies>`__
-* `The History of TYPO3 <https://typo3.org/project/history>`__
+* `TYPO3 Demo website <https://demo.typo3.org/>`__
 
-
-.. _s0-d1-l2-teacher:
+.. _s0-d1-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s0-d1-l2-student:
+.. _s0-d1-l4-student:
 
 Student's instructions
 ======================

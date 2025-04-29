@@ -82,7 +82,6 @@ Learning resources
 * `TYPO3 backend user groups <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Administration/BackendUsers/Groups.html#backend-users-groups>`__
 
 
-
 .. _s0-d3-l5-teacher:
 
 Teacher's instructions
