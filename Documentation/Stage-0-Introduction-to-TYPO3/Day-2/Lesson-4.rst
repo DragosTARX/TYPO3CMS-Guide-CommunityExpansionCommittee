@@ -78,14 +78,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `Installing TYPO3 with DDEV <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Installation/Install.html#installation-ddev-tutorial/>`__
-* `PHP Storm <https://www.jetbrains.com/phpstorm/features/>`__
-* `Visual Studio Code <https://code.visualstudio.com/>`__
-* `Tortoise Git <https://tortoisegit.org/about/>`__
-* `WinSCP <https://winscp.net/eng/docs/introduction>`__
-* `PuTTY <https://www.putty.org/>`__
-* `Postman <https://www.postman.com/>`__
-* `WSL <https://learn.microsoft.com/en-us/windows/wsl/install>`__
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
 .. _s0-d2-l4-teacher:

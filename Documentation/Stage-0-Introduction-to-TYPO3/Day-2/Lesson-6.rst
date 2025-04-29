@@ -78,9 +78,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `GitHub Basics <https://docs.github.com/en/get-started/start-your-journey/hello-world>`__
-* `Tortoise Git <https://tortoisegit.org/about/>`__
-* `GitHub Cheat Sheet <https://education.github.com/git-cheat-sheet-education.pdf>`__
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
 .. _s0-d2-l6-teacher:

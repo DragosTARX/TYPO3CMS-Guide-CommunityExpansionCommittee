@@ -78,8 +78,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Application Context <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Installation/ApplicationContext.html#application-context>`__
-* `GitHub Basics <https://docs.github.com/en/get-started/start-your-journey/hello-world>`__
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
 .. _s0-d2-l2-teacher:

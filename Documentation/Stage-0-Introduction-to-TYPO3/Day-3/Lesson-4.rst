@@ -78,8 +78,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `The Filelist Module <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/FileModule/Index.html#file-module>`__
-
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
 .. _s0-d3-l4-teacher:

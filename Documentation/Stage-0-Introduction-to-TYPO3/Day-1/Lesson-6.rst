@@ -78,7 +78,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Case Studies <https://typo3.com/customers/case-studies>`__
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
 .. _s0-d1-l6-teacher:

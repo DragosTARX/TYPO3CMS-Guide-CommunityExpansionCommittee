@@ -78,9 +78,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `Creating and configuring TYPO3 Backned Users <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Administration/BackendUsers/Index.html#backend-users>`__
-* `TYPO3 backend user groups <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Administration/BackendUsers/Groups.html#backend-users-groups>`__
-
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
 .. _s0-d3-l5-teacher:

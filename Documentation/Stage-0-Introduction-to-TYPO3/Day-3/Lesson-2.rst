@@ -78,9 +78,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 General BE Structure <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/GeneralBackendStructure/Index.html#general-backend-structure>`__
-* `TYPO3 Page Tree <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/GeneralBackendStructure/PageTree/Index.html#page-tree>`__
-
+* `TYPO3 Documentation <https://docs.typo3.org>`__
+* :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
 .. _s0-d3-l2-teacher:
